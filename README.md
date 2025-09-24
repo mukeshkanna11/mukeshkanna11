@@ -1,5 +1,5 @@
 - 👋 Hi, I’m "Mukeshkanna M"
-- 👀 I’m interested in "Full Stack Developer"
+- 👀 I’m interested in "Software Developer"
 - 🌱 I’m currently working at **Ready Tech Solutions** as a **MERN SDE2**
 - 💞️ I’m looking to collaborate on innovative projects that Mobile design and  Web development.
 - 📫 How to reach me Email: mukeshkanna1066@gmail.com
